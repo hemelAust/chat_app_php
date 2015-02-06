@@ -1,0 +1,11 @@
+/*
+
+	CSS StyleSheets for Chat Application
+	Author : Md. Arman Ahmed
+	Developer
+
+*/
+html,body{ margin: 0px; padding: 0px;}
+#messeges{width: 500px; height: 300px; padding: 5px; margin: 10px; border: 1px solid #ccc; overflow: auto;}
+#input{ padding: 10px;}
+#feedback{display: none;}
